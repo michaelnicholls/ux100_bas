@@ -1,0 +1,7 @@
+<mvc:View controllerName="mn.mnapp.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <MessagePage id="_IDGenMessagePage" showHeader="false" description="{i18n>nyi}" text="{i18n>nyi}" icon="sap-con://home"/> 
+    </Page>
+</mvc:View>
