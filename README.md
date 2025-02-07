@@ -1,3 +1,24 @@
+Create a dev space
+
+clone from git
+
+open application info
+
+use option to run npm install
+
+preview application
+
+add Fiori Launchpad config
+
+command pallete: Build MTA
+
+cf login
+
+check Deploy Config is CF
+
+
+
+
 ## Application Details
 |               |
 | ------------- |
